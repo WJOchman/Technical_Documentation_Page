@@ -1,5 +1,12 @@
 /* Vertical Navigation Bar */
 
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+}
+
 /* Chapter 1 */
 
 /* Chapter 2 */
